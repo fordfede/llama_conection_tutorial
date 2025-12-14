@@ -42,6 +42,12 @@ Tutorial paso a paso para conectar LangChain con Llama 3.2 usando Google Colab y
 - Asegúrate de usar `Llama-3.2-1B-Instruct` (con "-Instruct")
 - No uses el modelo base sin el sufijo Instruct
 
+## 📸 Resultado Esperado
+
+Así debería verse cuando ejecutes el notebook correctamente:
+
+![Colab ejecutado](screencapture.png)
+
 ## 🔧 Tecnologías
 
 - [LangChain](https://www.langchain.com/)
